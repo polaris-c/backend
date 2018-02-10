@@ -1,0 +1,3 @@
+****** models is running ******
+****** admin is running ******
+[{"model": "backendAPP.person", "pk": 1, "fields": {"name": "zsy", "age": 24}}, {"model": "backendAPP.person", "pk": 2, "fields": {"name": "AAA", "age": 24}}, {"model": "backendAPP.person", "pk": 3, "fields": {"name": "BBB", "age": 20}}, {"model": "backendAPP.person", "pk": 4, "fields": {"name": "From-admin", "age": 1}}, {"model": "backendAPP.person", "pk": 5, "fields": {"name": "NEW", "age": 10}}]
